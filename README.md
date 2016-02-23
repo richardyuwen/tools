@@ -1,5 +1,4 @@
 # tools
-
 Blog：http://www.simlinux.com
 
 Bootstrapping： Kickstart、Cobbler、rpmbuild/xen、kvm、lxc、Openstack、 Cloudstack、Opennebula、Eucalyplus、RHEV
